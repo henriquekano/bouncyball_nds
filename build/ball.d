@@ -1,4 +1,4 @@
-main.o: c:/Users/master/Henrique/NDS/bouncyball_nds/source/main.c \
+ball.o: c:/Users/master/Henrique/NDS/bouncyball_nds/source/ball.c \
  c:/devkitPro/libnds/include/nds.h \
  c:/devkitPro/libnds/include/nds/libversion.h \
  c:/devkitPro/libnds/include/nds/ndstypes.h \
@@ -56,10 +56,7 @@ main.o: c:/Users/master/Henrique/NDS/bouncyball_nds/source/main.c \
  c:/devkitPro/libnds/include/nds/arm9/trig_lut.h \
  c:/devkitPro/libnds/include/nds/arm9/video.h \
  c:/devkitPro/libnds/include/nds/arm9/videoGL.h \
- c:/Users/master/Henrique/NDS/bouncyball_nds/include/ball.h \
- c:/Users/master/Henrique/NDS/bouncyball_nds/build/gfx_ball.h \
- c:/Users/master/Henrique/NDS/bouncyball_nds/build/gfx_brick.h \
- c:/Users/master/Henrique/NDS/bouncyball_nds/build/gfx_gradient.h
+ c:/Users/master/Henrique/NDS/bouncyball_nds/include/ball.h
 
 c:/devkitPro/libnds/include/nds.h:
 
@@ -176,9 +173,3 @@ c:/devkitPro/libnds/include/nds/arm9/video.h:
 c:/devkitPro/libnds/include/nds/arm9/videoGL.h:
 
 c:/Users/master/Henrique/NDS/bouncyball_nds/include/ball.h:
-
-c:/Users/master/Henrique/NDS/bouncyball_nds/build/gfx_ball.h:
-
-c:/Users/master/Henrique/NDS/bouncyball_nds/build/gfx_brick.h:
-
-c:/Users/master/Henrique/NDS/bouncyball_nds/build/gfx_gradient.h:
