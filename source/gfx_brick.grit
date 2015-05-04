@@ -1,0 +1,8 @@
+# comment
+
+# -pn{n} numbers of entries in the palette
+-pn3
+
+# -gB{n} specifies the output format
+# 4-bit (16 color palette):
+-gB4
